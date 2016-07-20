@@ -1,0 +1,17 @@
+{
+    "wallpapers": {
+        "category": [
+        {
+                "name": "Theme Walls New",
+                "wallpaper": [
+                {
+                        "author": "Idea Designs",
+                        "url": "https://github.com/hiten1985/Flazing/blob/master/Md1.png",
+                        "thumbUrl": "https://github.com/hiten1985/Flazing/blob/master/Md1_small.png",
+                        "name": "Material One"
+                    }
+                ]
+            }
+        ]
+    }
+}
