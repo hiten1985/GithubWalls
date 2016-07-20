@@ -1,17 +1,7 @@
 {
-    "wallpapers": {
-        "category": [
-        {
-                "name": "Theme Walls New",
-                "wallpaper": [
-                {
-                        "author": "Idea Designs",
-                        "url": "https://raw.githubusercontent.com/hiten1985/GithubWalls/master/flazing/md.jpg”,
-                        "name": "Material One"
-                    }
-                ]
-            }
-        ]
-    }
+	"wallpapers": [{
+		"author": "SixtyFour ThirtyTwo",
+		"url": "https://raw.githubusercontent.com/hiten1985/GithubWalls/master/flazing/md.jpg",
+		"name": "Material One"
+	}, {}]
 }
-
